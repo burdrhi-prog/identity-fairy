@@ -28,6 +28,13 @@ Account and device records can be confusing, fragmented, and frightening. **Iden
 - **Control:** Design for consent, privacy, and user-managed data.
 - **Act:** Offer proportionate, evidence-aware next steps.
 
+## What is feasible now?
+The proposed first release is a **local-first, synthetic-data prototype**, not live monitoring. It will model identity relationships, compare historical snapshots, preserve provenance, and show accessible explanations. Provider integrations, optional hardware, and production security require separate validation.
+
+- [MVP feasibility and scope](docs/feasibility-and-mvp.md)
+- [Evidence-linked identity graph specification](docs/identity-graph-spec.md)
+- [Employer-facing case study](docs/employer-case-study.md)
+
 ## Explore
 - [Product vision](docs/product-vision.md)
 - [Development roadmap](docs/roadmap.md)
