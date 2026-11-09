@@ -73,3 +73,7 @@ The physical companion is **not built**; the dashboard is **planned**. The curre
 This independent product-design project demonstrates requirements analysis, security-aware UX, identity-data modeling, privacy considerations, and technical product planning. A limited synthetic implementation exists; usability testing, production security, and real-world monitoring remain future milestones.
 
 **No real account data, private investigation files, or credentials are published in this repository.**
+
+## Ambient companion hardware concept
+
+Identity Fairy Home also proposes a **compact, removable monitor companion with softly glowing lights and optional flapping wings**. Original Fairy and Desktop Dude characters would share a status-only hardware platform. The physical design is inspired by the *interaction concept* of historical USB desktop companions, not their branding or appearance. This is not yet built. See [hardware design brief](docs/ambient-companion-hardware.md) and [milestone 3](docs/roadmap.md).
