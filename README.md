@@ -54,6 +54,14 @@ The first working demonstration is a **local-first, synthetic-data snapshot comp
 - [Proposed architecture](docs/architecture.md)
 - [Privacy and evidence principles](docs/privacy-and-evidence.md)
 
+## Three development milestones
+
+1. **Make the Fairy visible** — tablet/desktop dashboard, original five-colour ambient status, explicit offline state, and fictional interactive scenarios. [Issues #1–3](https://github.com/burdrhi-prog/identity-fairy/issues?q=is%3Aissue+is%3Aopen+M1).
+2. **Make the Fairy useful** — evidence-linked account history, recognition/dispute workflow, and privacy-first preservation. [Issues #4–6](https://github.com/burdrhi-prog/identity-fairy/issues?q=is%3Aissue+is%3Aopen+M2).
+3. **Bring the Fairy into the physical world** — optional status-only monitor companion, simulator, and proposed ESP32-S3 hardware. [Issues #7–9](https://github.com/burdrhi-prog/identity-fairy/issues?q=is%3Aissue+is%3Aopen+M3).
+
+The physical companion is **not built**; the dashboard is **planned**. The current executable component is a synthetic Python snapshot comparator. [Detailed roadmap](docs/roadmap.md).
+
 ## Proposed build stages
 1. Synthetic data and a typed snapshot schema — initial implementation complete.
 2. Local snapshot comparison and explanation prototype — initial implementation complete; visual timeline remains planned.
