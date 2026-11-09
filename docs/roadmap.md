@@ -29,7 +29,9 @@
 ## Milestone 3 — Bring the Fairy into the physical world
 **Goal:** optional monitor-mounted ambient companion.
 
-- Revisit the September 14, 2026 L-shaped Fairy concept, translucent RGB illumination, USB-C and proposed ESP32-S3; dimensions/components are **design proposals, not validated specifications**.
+- Revisit the September 14, 2026 Fairy concept and physical flapping-wing i-Buddy inspiration. Develop an **original**, smaller removable character with translucent RGB lighting, optional moving wings, USB-C and a candidate ESP32-S3; dimensions/components are **design proposals, not validated specifications**.
+- Design a shared controller and optional wing actuator for interchangeable original Fairy and Desktop Dude shells; support quiet/reduced-motion modes.
+- See [ambient hardware design brief](ambient-companion-hardware.md) for requirements, privacy boundary and IP review checklist.
 - Define a minimal local status-only interface: state, freshness and acknowledgement indication; **never** send account identifiers, credentials, logs or evidence to hardware.
 - Prototype simulator first; then investigate electronics, enclosure, power and accessibility.
 - Hardware should fail to neutral/offline when disconnected, not continue displaying a reassuring green/teal.
