@@ -1,0 +1,34 @@
+{
+  "records": [
+    {
+      "id": "client-001",
+      "kind": "logical_client",
+      "provider": "demo-provider",
+      "account": "sample-account",
+      "source_ref": "SYN-A:2",
+      "observed_at": "2026-01-02T10:00:00Z",
+      "status": "known",
+      "value_alias": "browser-A"
+    },
+    {
+      "id": "recovery-001",
+      "kind": "recovery_method",
+      "provider": "demo-provider",
+      "account": "sample-account",
+      "source_ref": "SYN-B:8",
+      "observed_at": "2026-01-03T12:01:00Z",
+      "status": "disputed",
+      "value_alias": "alias-B"
+    },
+    {
+      "id": "session-002",
+      "kind": "session",
+      "provider": "demo-provider",
+      "account": "sample-account",
+      "source_ref": "SYN-B:9",
+      "observed_at": "2026-01-03T12:05:00Z",
+      "status": "unresolved",
+      "value_alias": "session-B"
+    }
+  ]
+}
