@@ -47,6 +47,7 @@ The first working demonstration is a **local-first, synthetic-data snapshot comp
 - [MVP feasibility and scope](docs/feasibility-and-mvp.md)
 - [Evidence-linked identity graph specification](docs/identity-graph-spec.md)
 - [Employer-facing case study](docs/employer-case-study.md)
+- [Hardware feasibility research — i-Buddy precedents and verification gaps](docs/hardware-feasibility.md)
 
 ## Explore
 - [Product vision](docs/product-vision.md)
